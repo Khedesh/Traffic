@@ -1,0 +1,19 @@
+# Material file for untitled.obj
+
+newmtl Material
+	Ns 96
+	d 1
+	illum 2
+	Kd 0.64 0.64 0.64
+	Ks 0.5 0.5 0.5
+	Ka 0.0 0.0 0.0
+
+newmtl Pashmak
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.21 0.78 0.75
+	map_Kd ..\..\:\My Picture\Pic 3\KINGC025.JPG
+
